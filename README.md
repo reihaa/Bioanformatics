@@ -1,5 +1,5 @@
-# Bioanformatics
-Bioanformatic course's projects and homeworks
+# Rosalind Solutions
+Bio-informatics course's projects and homeworks
 
 # projects:
 1.Adapt SmallParsimony to Unrooted Trees
