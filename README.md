@@ -1,5 +1,5 @@
 # Rosalind Solutions
-Bio-informatics course's projects and homeworks
+Bio-informatics course's projects
 
 # projects:
 1.Adapt SmallParsimony to Unrooted Trees
